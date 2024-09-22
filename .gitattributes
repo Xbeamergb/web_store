@@ -7,3 +7,8 @@ crimsoncloud.lrc filter=lfs diff=lfs merge=lfs -text
 silverbullet.lrc filter=lfs diff=lfs merge=lfs -text
 CrimsonCloud.mp3 filter=lfs diff=lfs merge=lfs -text
 SilverBullet.mp3 filter=lfs diff=lfs merge=lfs -text
+CrimsonCloud.lrc filter=lfs diff=lfs merge=lfs -text
+DevilTrigger.lrc filter=lfs diff=lfs merge=lfs -text
+SilverBullet.lrc filter=lfs diff=lfs merge=lfs -text
+Subhuman.lrc filter=lfs diff=lfs merge=lfs -text
+Subhuman.m4a filter=lfs diff=lfs merge=lfs -text
