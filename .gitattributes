@@ -5,3 +5,5 @@ deviltrigger.lrc filter=lfs diff=lfs merge=lfs -text
 subhuman.lrc filter=lfs diff=lfs merge=lfs -text
 crimsoncloud.lrc filter=lfs diff=lfs merge=lfs -text
 silverbullet.lrc filter=lfs diff=lfs merge=lfs -text
+CrimsonCloud.mp3 filter=lfs diff=lfs merge=lfs -text
+SilverBullet.mp3 filter=lfs diff=lfs merge=lfs -text
